@@ -16,5 +16,16 @@ This project uses [json-server](https://github.com/typicode/json-server) as well
 ### Run json server
 2. `npm run json:server`
 
+You can test the API by running 
+
+`http://localhost:3000/companies`
+  
+`http://localhost:3000/users`
+
 ### Run express server
-2. `npm run dev`
+3. `npm run dev`
+
+### GraphiQL
+
+GraphiQL is an in-browser tool for writing, validating, and testing GraphQL queries.   
+`http://localhost:4000/graphql`
