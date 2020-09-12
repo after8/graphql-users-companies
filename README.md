@@ -1,0 +1,20 @@
+# graphql-users-companies
+This project uses [json-server](https://github.com/typicode/json-server) as well as graphQL and express to play around with graphQL queries and mutations.
+
+## Dependencies
+[Node.js](https://nodejs.org/en/)
+
+## How to use
+
+### Clone this repo
+
+`git clone https://github.com/after8/graphql-users-companies.git`
+
+### Install packages
+1. `npm install`
+
+### Run json server
+2. `npm run json:server`
+
+### Run express server
+2. `npm run dev`
